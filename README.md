@@ -6,6 +6,7 @@ Portfolio
 * Description 2
 * Description 3
 * Description 4
+
 ![](https://github.com/GoRish247/Rishi_Portfolio/blob/main/images/sample.PNG)
 
 # [Project 2: Name: Project Overview]()
@@ -13,6 +14,7 @@ Portfolio
 * Description 2
 * Description 3
 * Description 4
+
 ![](https://github.com/GoRish247/Rishi_Portfolio/blob/main/images/sample.PNG)
 
 # [Project 3: Name: Project Overview]()
@@ -20,4 +22,5 @@ Portfolio
 * Description 2
 * Description 3
 * Description 4
+
 ![](https://github.com/GoRish247/Rishi_Portfolio/blob/main/images/sample.PNG)
