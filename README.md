@@ -6,3 +6,15 @@ Portfolio
 * Description 2
 * Description 3
 * Description 4
+
+# [Project 2: Name: Project Overview]()
+* Description 1
+* Description 2
+* Description 3
+* Description 4
+
+# [Project 3: Name: Project Overview]()
+* Description 1
+* Description 2
+* Description 3
+* Description 4
